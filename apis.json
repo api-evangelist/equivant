@@ -1,0 +1,67 @@
+{
+    "name": "equivant",
+    "description": "equivant delivers Court Case Management Software Solutions and Inmate Decision Support so courts, attorneys and supervision officials can advance justice.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20019-northpointe.jpg",
+    "tags": [
+        "algorithms",
+        "api not found",
+        "courts",
+        "have api",
+        "policing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/equivant\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "equivant",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20019-northpointe.jpg",
+            "humanURL": "http:\/\/www.equivant.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/equivant-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.northpointeinc.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.northpointeinc.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/equivalent-data"
+        },
+        {
+            "type": "Email",
+            "url": "support@equivant.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@equivant.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@equivant.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/equivantnews"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.equivant.com\/"
+        }
+    ]
+}
